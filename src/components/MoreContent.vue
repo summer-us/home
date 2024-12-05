@@ -1,5 +1,5 @@
 <template>
-  <div class="more-content">您可在此编写任意内容</div>
+  <div class="more-content">却把陈醋错当墨，写得半生纸上酸。</ br> 天地不仁，以万物为刍狗。</div>
 </template>
 
 <style lang="scss" scoped>
